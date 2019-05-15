@@ -1,0 +1,61 @@
+lib: [
+  "_build/install/default/lib/stationary/META" {"META"}
+  "_build/install/default/lib/stationary/attribute.ml" {"attribute.ml"}
+  "_build/install/default/lib/stationary/attribute.mli" {"attribute.mli"}
+  "_build/install/default/lib/stationary/dune-package" {"dune-package"}
+  "_build/install/default/lib/stationary/file.ml" {"file.ml"}
+  "_build/install/default/lib/stationary/file.mli" {"file.mli"}
+  "_build/install/default/lib/stationary/file_system.ml" {"file_system.ml"}
+  "_build/install/default/lib/stationary/file_system.mli" {"file_system.mli"}
+  "_build/install/default/lib/stationary/html.ml" {"html.ml"}
+  "_build/install/default/lib/stationary/html.mli" {"html.mli"}
+  "_build/install/default/lib/stationary/opam" {"opam"}
+  "_build/install/default/lib/stationary/site.ml" {"site.ml"}
+  "_build/install/default/lib/stationary/site.mli" {"site.mli"}
+  "_build/install/default/lib/stationary/stationary.a" {"stationary.a"}
+  "_build/install/default/lib/stationary/stationary.cma" {"stationary.cma"}
+  "_build/install/default/lib/stationary/stationary.cmi" {"stationary.cmi"}
+  "_build/install/default/lib/stationary/stationary.cmt" {"stationary.cmt"}
+  "_build/install/default/lib/stationary/stationary.cmti" {"stationary.cmti"}
+  "_build/install/default/lib/stationary/stationary.cmx" {"stationary.cmx"}
+  "_build/install/default/lib/stationary/stationary.cmxa" {"stationary.cmxa"}
+  "_build/install/default/lib/stationary/stationary.cmxs" {"stationary.cmxs"}
+  "_build/install/default/lib/stationary/stationary.ml" {"stationary.ml"}
+  "_build/install/default/lib/stationary/stationary.mli" {"stationary.mli"}
+  "_build/install/default/lib/stationary/stationary__.cmi" {"stationary__.cmi"}
+  "_build/install/default/lib/stationary/stationary__.cmt" {"stationary__.cmt"}
+  "_build/install/default/lib/stationary/stationary__.cmx" {"stationary__.cmx"}
+  "_build/install/default/lib/stationary/stationary__.ml" {"stationary__.ml"}
+  "_build/install/default/lib/stationary/stationary__Attribute.cmi" {"stationary__Attribute.cmi"}
+  "_build/install/default/lib/stationary/stationary__Attribute.cmt" {"stationary__Attribute.cmt"}
+  "_build/install/default/lib/stationary/stationary__Attribute.cmti" {"stationary__Attribute.cmti"}
+  "_build/install/default/lib/stationary/stationary__Attribute.cmx" {"stationary__Attribute.cmx"}
+  "_build/install/default/lib/stationary/stationary__File.cmi" {"stationary__File.cmi"}
+  "_build/install/default/lib/stationary/stationary__File.cmt" {"stationary__File.cmt"}
+  "_build/install/default/lib/stationary/stationary__File.cmti" {"stationary__File.cmti"}
+  "_build/install/default/lib/stationary/stationary__File.cmx" {"stationary__File.cmx"}
+  "_build/install/default/lib/stationary/stationary__File_system.cmi" {"stationary__File_system.cmi"}
+  "_build/install/default/lib/stationary/stationary__File_system.cmt" {"stationary__File_system.cmt"}
+  "_build/install/default/lib/stationary/stationary__File_system.cmti" {"stationary__File_system.cmti"}
+  "_build/install/default/lib/stationary/stationary__File_system.cmx" {"stationary__File_system.cmx"}
+  "_build/install/default/lib/stationary/stationary__Html.cmi" {"stationary__Html.cmi"}
+  "_build/install/default/lib/stationary/stationary__Html.cmt" {"stationary__Html.cmt"}
+  "_build/install/default/lib/stationary/stationary__Html.cmti" {"stationary__Html.cmti"}
+  "_build/install/default/lib/stationary/stationary__Html.cmx" {"stationary__Html.cmx"}
+  "_build/install/default/lib/stationary/stationary__Site.cmi" {"stationary__Site.cmi"}
+  "_build/install/default/lib/stationary/stationary__Site.cmt" {"stationary__Site.cmt"}
+  "_build/install/default/lib/stationary/stationary__Site.cmti" {"stationary__Site.cmti"}
+  "_build/install/default/lib/stationary/stationary__Site.cmx" {"stationary__Site.cmx"}
+  "_build/install/default/lib/stationary/stationary__Stationary_std_internal.cmi" {"stationary__Stationary_std_internal.cmi"}
+  "_build/install/default/lib/stationary/stationary__Stationary_std_internal.cmt" {"stationary__Stationary_std_internal.cmt"}
+  "_build/install/default/lib/stationary/stationary__Stationary_std_internal.cmx" {"stationary__Stationary_std_internal.cmx"}
+  "_build/install/default/lib/stationary/stationary__Std.cmi" {"stationary__Std.cmi"}
+  "_build/install/default/lib/stationary/stationary__Std.cmt" {"stationary__Std.cmt"}
+  "_build/install/default/lib/stationary/stationary__Std.cmx" {"stationary__Std.cmx"}
+  "_build/install/default/lib/stationary/stationary_std_internal.ml" {"stationary_std_internal.ml"}
+  "_build/install/default/lib/stationary/std.ml" {"std.ml"}
+]
+doc: [
+  "_build/install/default/doc/stationary/LICENSE"
+  "_build/install/default/doc/stationary/README.md"
+]

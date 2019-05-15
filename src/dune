@@ -1,0 +1,8 @@
+(library
+  (name stationary)
+  (public_name stationary)
+  (preprocess (pps ppx_jane ))
+  (inline_tests)
+  (libraries
+    core
+    async ))
